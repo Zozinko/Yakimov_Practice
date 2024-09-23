@@ -11,8 +11,8 @@ using WebAppi.Sevices;
 namespace WebAppi.Migrations
 {
     [DbContext(typeof(SuperDBContext))]
-    [Migration("20240726123558_Test")]
-    partial class Test
+    [Migration("20240923171904_Nikolay_Is_Here")]
+    partial class Nikolay_Is_Here
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
